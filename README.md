@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **python, machine learning, Fastapi**
 
-- I'm currently learning **Frontend Frameworks"
+- I'm currently learning **Frontend Frameworks**
 
 - 📫 How to reach me **anandcollege07@gmail.com**
 
@@ -22,8 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-0037&show_icons=true&locale=en&layout=compact" alt="anand-0037" /></p>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=anand-0037)](https://git.io/streak-stats) -->
-
+[![GitHub Streak](https://readme-streak-stats-3xbc5jzek-anand-vashishthas-projects.vercel.app?user=anandvash&theme=neon-palenight&border_radius=8&card_width=550&card_height=170)](https://git.io/streak-stats)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-0037&" alt="anand-0037" /></p> -->
 
