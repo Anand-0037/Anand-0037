@@ -1,5 +1,5 @@
 
-<p align="center"> ![My GitHub Banner](https://svg-banners.vercel.app/api?type=textBox&text1=Anand%20Vashishtha) <p>
+![My GitHub Banner](https://svg-banners.vercel.app/api?type=textBox&text1=Anand%20Vashishtha)
 
 - 💬 Ask me about **python, machine learning, Fastapi**
 
