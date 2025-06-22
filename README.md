@@ -1,5 +1,5 @@
 
-- ![My GitHub Banner](https://svg-banners.vercel.app/api?type=textBox&text1=Anand%20Vashishtha)
+<p align="center"> ![My GitHub Banner](https://svg-banners.vercel.app/api?type=textBox&text1=Anand%20Vashishtha) <p>
 
 - 💬 Ask me about **python, machine learning, Fastapi**
 
@@ -22,8 +22,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-0037&show_icons=true&locale=en&layout=compact" alt="anand-0037" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anand-0037)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=anand-0037)](https://git.io/streak-stats) -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-0037&" alt="anand-0037" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-0037&" alt="anand-0037" /></p> -->
 
