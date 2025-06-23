@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-0037&show_icons=true&locale=en&layout=compact" alt="anand-0037" /></p>
 
-[![GitHub Streak](https://readme-streak-stats-3xbc5jzek-anand-vashishthas-projects.vercel.app?user=anand-0037&theme=neon-palenight&border_radius=8&card_width=550&card_height=170)](https://git.io/streak-stats)
+![GitHub Streak](https://readme-streak-stats-3xbc5jzek-anand-vashishthas-projects.vercel.app?user=anand-0037&theme=neon-palenight&border_radius=8&card_width=550&card_height=170)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anand-0037&" alt="anand-0037" /></p> -->
 
