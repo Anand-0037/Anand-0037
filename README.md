@@ -8,13 +8,13 @@ Open to part-time and remote work — the best way to reach me is [anandcollege0
 
 ### What I've been building
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**CoreMap**](https://github.com/Anand-0037/coremap) | CLI that packs a codebase into one file for AI tools, or just the lines that matter for a task. On [npm](https://www.npmjs.com/package/@0xanand/coremap). | TypeScript, Node.js |
-| [**KaggleIngest**](https://github.com/Anand-0037/KaggleIngest) | Turns a Kaggle competition's best notebooks and dataset details into context for an AI coding assistant. | Python, PostgreSQL |
-| **Synergi** | AI agents that hire each other and pay per request with x402 micropayments on Stacks. | TypeScript, Clarity |
-| [**AdReceipt**](https://github.com/Anand-0037/adreceipt) | Makes sponsored answers in AI chat apps checkable: an ad is marked verified only after its payment is confirmed on-chain. | TypeScript, Solidity, The Graph |
-| [**0gskills**](https://github.com/Anand-0037/0gskills) | Guides and a small search API that help AI agents build on 0G. | JSON API |
+| Project | What it does |
+| --- | --- |
+| [**CoreMap**](https://github.com/Anand-0037/coremap) | CLI that packs a codebase into one file for AI tools, or just the lines that matter for a task. On [npm](https://www.npmjs.com/package/@0xanand/coremap). |
+| [**KaggleIngest**](https://github.com/Anand-0037/KaggleIngest) | Turns a Kaggle competition's best notebooks and dataset details into context for an AI coding assistant. |
+| **Synergi** | AI agents that hire each other and pay per request with x402 micropayments on Stacks. |
+| [**AdReceipt**](https://github.com/Anand-0037/adreceipt) | Makes sponsored answers in AI chat apps checkable: an ad is marked verified only after its payment is confirmed on-chain. |
+| [**0gskills**](https://github.com/Anand-0037/0gskills) | Guides and a small search API that help AI agents build on 0G. |
 
 ### Wins
 
